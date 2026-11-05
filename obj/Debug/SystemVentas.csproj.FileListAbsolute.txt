@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\bin\Debug\SystemVentas.exe.config
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\bin\Debug\SystemVentas.exe
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\bin\Debug\SystemVentas.pdb
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.Form1.resources
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.exe
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.pdb
+C:\Users\USUARIO\Desktop\GIT-GITHUB\SystemVentas\obj\Debug\SystemVentas.exe.config
